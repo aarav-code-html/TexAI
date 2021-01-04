@@ -1,0 +1,23 @@
+.aipng {
+    border-radius: 100px;
+    width: 100;
+}
+.output {
+    width: 90%;
+     height: 400;
+      border-color: black;
+       background-color: white ;
+   font-size: 20;
+   color: rgb(94, 94, 180);
+}
+#body {
+background-color: royalblue;
+}
+.h1 {
+    color: crimson;
+    font-size: 40;
+
+}
+.boder{
+    border-radius: 50;
+}
